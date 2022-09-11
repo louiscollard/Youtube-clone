@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const VideoShema = new mongoose.Schema(
+const VideoSchema = new mongoose.Schema(
 	{
 		userId: {
 			type: String,
